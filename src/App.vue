@@ -158,10 +158,10 @@ html{
 `],
         currentMarkdown: '',
         currentThankMarkdown: '',
-        fullMarkdown: `南方
+        fullMarkdown: `南方12s
 ====
 
-坐标：湖南长沙。
+坐标：湖南长沙1。
 
 资深软件工程师，资深产品经理，高级项目经理。现为自由职业。
 
@@ -171,7 +171,7 @@ html{
 数据库设计
 ----
   - 结构化数据库设计
-  - noSQL设计
+  - noSQL设计1
 
 后端开发
 ----
